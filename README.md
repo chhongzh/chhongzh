@@ -7,6 +7,8 @@
 ---------
 ![Github](https://github-readme-stats.vercel.app/api?username=chhongzh&show_icons=true&count_private=true)
 
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=chhongzh&theme=light&layout=compact)
+
 <!--
 **chhongzh/chhongzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
